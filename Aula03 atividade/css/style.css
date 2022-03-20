@@ -1,0 +1,54 @@
+body{
+	font-family: OpenSans-Bold;
+	text-align: center;
+	color: #205D76;
+	background-color:#FAF8DA;	
+	font-size: 16.0938px ;	
+}
+
+h1{
+	font-family: OpenSans-Semibold;
+	text-align: center;
+	color: #205D76;
+	background-color:#FAF8DA;	
+	font-size: 40px ;	
+}
+
+ul{
+	font-family: OpenSans-Semibold;
+	font-size: 20px;
+	
+	text-align: left;
+
+
+
+}
+
+li{
+
+	font-family: OpenSans;
+	font-size: 10px ;	
+	color: #EA6E2F;
+	text-align: left;
+}
+
+.container img {
+    max-width:700px;
+    max-height:350px;
+    width: auto;
+    height: auto;
+}
+
+
+
+
+
+footer {
+    
+   background-color: #FFC122;
+   color: white;
+
+ }
+
+
+
