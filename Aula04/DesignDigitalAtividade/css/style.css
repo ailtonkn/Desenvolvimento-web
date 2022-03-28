@@ -1,0 +1,101 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+header{
+
+    text-align: left;
+    al
+
+}
+
+h2{
+    font-family: 'Open Sans';
+    font-size: 50px;
+}
+
+
+h4{
+
+    font-size: 15px;
+
+}
+
+.menu{
+
+    margin-left: 80%;
+    font-size: 10px;
+    background-color: white;
+    padding: 3px;
+}
+
+.menu-lista{
+
+    list-style: none;
+    padding: 0px;
+}
+
+.menu-item{
+
+    padding: 10px;
+    display: inline;
+}
+
+.menu-item a{
+    color: silver;
+    text-decoration: none;
+}
+
+.menu-item a:hover{
+    text-decoration: underline;
+}
+
+
+section{
+
+    display: flex;
+}
+
+.caixa{
+
+    background-color: black;
+    opacity: 60%;
+    color: #FFFFFF;
+    position: absolute;
+    top: 10%;
+    padding: 15px;
+    text-align: left;
+    margin-left: 0px;
+    width: 39%;
+
+
+}
+
+.banner{
+
+    position: relative;
+    text-align: center;
+    display: flex;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.article{
+
+    display: flex;
+    width: 80px;
+    margin: 30px;
+    text-align: center;
+}
+
+.imagens{
+
+ 
+    width: 93%;
+    
+}
+.imagen{
+
+    width: 98%;
+}
