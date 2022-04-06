@@ -1,0 +1,92 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: white;
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    padding-top: 47px;
+}
+
+
+
+ul {
+    text-align: right;
+    margin-bottom: 0px;
+}
+
+ul li {
+    display: inline-block;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 210%;
+}
+
+a{
+    text-decoration: none;
+    color: silver;
+}
+
+.banner {
+    background-image: url('../img/banner.jpg');
+    width: 1290px;
+    height: 460px;
+    left: 0px;
+    top: 130px;
+}
+
+.caixa{
+
+    background-color: black;
+    opacity: 60%;
+    color: #FFFFFF;
+    position: absolute;
+    top: 41%;
+    padding: 18px;
+    text-align: left;
+    margin-left: 0px;
+    width: 35%;
+
+
+}
+
+.caixa a{
+
+    text-decoration: none;
+    color: MediumAquamarine;
+}
+
+.imagens{   
+
+    float: left;
+    width: 98%;
+    
+}
+
+article{
+
+    float: left;
+    width: 25%;
+
+}
+
+h2{
+
+    text-align: left;
+    float: left;
+}
+
+p{
+    text-align: left;
+    float: left;
+    width: 98%;
+}
+
+
+footer {
+
+    font-size: 13px;
+    top: 100px;
+    font-family: Abel;
+}
